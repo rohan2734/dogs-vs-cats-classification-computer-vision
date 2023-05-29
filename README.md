@@ -24,4 +24,3 @@
 
 ## Inference
 - Using Sample Image, I have tested the model and the Final Model predicted correctly
-- 
